@@ -1,7 +1,7 @@
 ## Work in Progress Translations
 
-- [English](RSK-whitepaper-en.pdf)
+- [English](RSK-Whitepaper-en.pdf)
 
-- [Italian](RSK-whitepaper-it.pdf)
+- [Italian](RSK-Whitepaper-it.pdf)
 
 
