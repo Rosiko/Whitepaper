@@ -1,4 +1,4 @@
-## WIP Translations
+## Work in Progress Translations
 
 - [English](RSK-whitepaper-en.pdf)
 
